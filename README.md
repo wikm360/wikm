@@ -47,9 +47,25 @@ https://console.hetzner.cloud/projects
 https://www.digitalocean.com/pricing/droplets#basic-droplets
 
 -----------------------------------------------------------
+🔵 لیست پورت ها:
+443
+587
+53
+21
+22
+80
+123
+143
+3306
+8080
+54783
+1194
+
+---------------------------------------------------------------
+
 منبع:
 
-AlefBeMedia
+@AlefBeMedia
 
 https://www.youtube.com/watch?v=1NfR6wrKTVA
 
