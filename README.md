@@ -33,13 +33,23 @@ passwd root
 
 ----------------------------------------------------------
 سایت های خرید سرور مجازی:
+
 https://parspack.com/
+
 https://onlineserver.ir/
+
 https://daryaserver.ir/
+
 https://www.vps2day.com/
+
 https://console.hetzner.cloud/projects
+
 https://www.digitalocean.com/pricing/droplets#basic-droplets
+
 -----------------------------------------------------------
 منبع:
+
 AlefBeMedia
+
 https://www.youtube.com/watch?v=1NfR6wrKTVA
+
